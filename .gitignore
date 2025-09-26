@@ -1,0 +1,43 @@
+# Arduino build artifacts
+*.hex
+*.elf
+*.o
+*.a
+*.bin
+
+# IDE specific files
+.vscode/
+.idea/
+*.iml
+
+# OS specific files
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Windows shortcuts
+*.lnk
+
+# Temporary files
+*.tmp
+*.bak
+*.cache
+
+# Libraries
+libraries/
+lib/
+
+# Build directories
+build/
+.pioenvs
+.piolibdeps
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Audio/video files (optional - remove if you want to track these)
+# *.wav
+# *.mp3

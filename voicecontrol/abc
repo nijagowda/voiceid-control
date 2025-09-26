@@ -1,0 +1,3 @@
+import soundfile as sf
+info = sf.info("voices/saif.wav")
+print(info)
