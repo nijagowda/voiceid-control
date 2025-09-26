@@ -38,6 +38,11 @@ __pycache__/
 *.pyc
 *.pyo
 
-# Audio/video files (optional - remove if you want to track these)
-# *.wav
-# *.mp3
+# Audio/video files (keeping voice profiles)
+live.wav
+*.mp3
+
+# Temporary and test files
+test*.py
+temp*.py
+*.test.*
