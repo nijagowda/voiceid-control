@@ -13,7 +13,7 @@ A personalized voice recognition system that identifies individual users by thei
 ## Project Setup
 
 ![Arduino Voice Control Setup](screenshots/arduino.jpeg)
-![Arduino Voice Control Setup](screenshots/circuitboard.jpeg)
+![Arduino Voice Control Setup](screenshots/circuitboard.png)
 
 
 ## System Architecture
