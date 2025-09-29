@@ -10,6 +10,10 @@ A personalized voice recognition system that identifies individual users by thei
 - **Audio Feedback**: Text-to-speech confirmation of executed commands
 - **Real-time Processing**: Live audio recording and immediate response
 
+## Project Setup
+
+![Arduino Voice Control Setup](screenshots/arduino.jpeg)
+
 ## System Architecture
 
 ```
