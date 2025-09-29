@@ -164,6 +164,9 @@ In `voice_led_with_tts.py`:
    - Verify Arduino code is uploaded
    - Check serial baud rate (9600)
    - Ensure LEDs are properly connected
+  
+## Screenshots
+
 
 ## Future Enhancements
 
